@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\hp\\image_classification\\handsign.model"
+all_model_checkpoint_paths: "C:\\Users\\hp\\image_classification\\handsign.model"
